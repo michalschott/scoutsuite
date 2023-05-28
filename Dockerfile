@@ -1,4 +1,4 @@
-FROM alpine:3.13
+FROM alpine:3.18
 
 ENV SCOUTSUITE_VERSION=5.0.post3
 
